@@ -31,11 +31,11 @@ Quiz #4
 * 20 La récursivité
 * 21 Le passage de paramètres
 Quiz #5
-
 * 22 Les exceptions
+
 ----------------------------------------------------------------
 
-II. POO:
+II. POO
 
 * 23a Les classes : bases
 * 23b Les classes : membres statiques
@@ -51,7 +51,8 @@ II. POO:
 
 ----------------------------------------------------------------
 
-III.DOM et WEB API: //developer.mozilla.org/fr/docs/Web/API
+III.DOM 
+WEB API //developer.mozilla.org/fr/docs/Web/API
 
 * 27 L'objet global window
 * 28 Sélectionner des éléments
@@ -60,7 +61,8 @@ III.DOM et WEB API: //developer.mozilla.org/fr/docs/Web/API
 
 -----------------------------------------------------------------
 
-IV Programmation évènementielle : les click, survols etc...
+IV Programmation évènementielle 
+Click, survols etc...
 Comment les evenement se propagent dans l'arborescence du DOM
 et comment les ecoutés:
 //developer.mozilla.org/fr/docs/Web/Events
@@ -74,8 +76,6 @@ Propagation dans le DOM : //www.w3.org/TR/DOM-Level-3-Events/#event-flow
 -------------------------------------------------------------------
 
 V. Traitements asynchrones
-
---------------------------------------------------------------------
 
 * 34 Async - Promesses
 * 35 Async - API fetch sans données
