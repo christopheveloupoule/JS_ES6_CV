@@ -1,0 +1,11 @@
+Bernard est un boulanger
+baguette est un produit
+croissant est un produit
+pain de mie est un produit
+Bernard fabrique 80 baguette
+Bernard fabrique 60 croissant
+Bernard fabrique 20 pain de mie
+Fabrications de Bernard :
+  80 baguette
+  60 croissant
+  20 pain de mie
